@@ -1,0 +1,1 @@
+docker run -d --rm --privileged -p 8080:8080 code_sandbox:server make run-online
